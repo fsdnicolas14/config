@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Esto va a ser una aplicación de gestión de tareas",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSDSTR1024/config.git"
+  },
+  "keywords": [
+    "todo",
+    "tasks",
+    "task"
+  ],
+  "author": "Jordi Galobart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FSDSTR1024/config/issues"
+  },
+  "homepage": "https://github.com/FSDSTR1024/config#readme",
+  "dependencies": {
+    "cors": "2.6.0",
+    "express": "^4.21.1"
+  }
+}
